@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game_Over.unity
+    guid: 63616c8758f39af4ba3b470fe50d68d0
+  - enabled: 1
+    path: Assets/Scenes/Village/Village_01.unity
+    guid: b2b738e7fa0b14248972aa109a2db2a6
+  - enabled: 1
+    path: Assets/Scenes/Battles/Misinformation_Effect_Battle.unity
+    guid: 6b9d875cb6bbd03438941629e8a104c2
+  - enabled: 1
+    path: Assets/Scenes/Village/Village_01_Win.unity
+    guid: 4ce060a6ebc27b743ad264dc052bbb65
+  - enabled: 1
+    path: Assets/Scenes/Battles/Confirmation_Bias_Battle.unity
+    guid: c440661e83e6c8347b7e9385c50d8f17
+  - enabled: 1
+    path: Assets/Scenes/Village/Basement_Win.unity
+    guid: 29f7d09a967e72646ac789932a9be6a9
+  - enabled: 1
+    path: Assets/Scenes/Battles/Anchoring_Bias_Battle.unity
+    guid: a77ff3e980c1e504e90acdcf91e0f07f
+  - enabled: 1
+    path: Assets/Scenes/Village/Anchoring_Win.unity
+    guid: f530a8885a3daef44b89b67394dc867c
+  - enabled: 1
+    path: Assets/Scenes/Battles/Bonus_Quiz.unity
+    guid: 5103978b46ae0804695005885bd2df87
+  - enabled: 1
+    path: Assets/Scenes/Lose_Bonus_Quiz.unity
+    guid: efba094ee14c36d45b7e7dc38b271b46
+  m_configObjects: {}
